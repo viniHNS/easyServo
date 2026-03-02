@@ -60,7 +60,7 @@ This project was successfully validated in a **7-Segment Mechanical Display**. T
 
 ![easyServo showcase](Images/20260226_133856.jpg)
 
-<video src="Images/output.mp4" width="100%" controls muted loop></video>
+![easyServo showcase](Images/output1.gif)
 
 ---
 
