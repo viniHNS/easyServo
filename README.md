@@ -2,7 +2,7 @@
 
 **easyServo** is a compact interface board (breakout board) designed to simplify the connection and control of up to 4 servomotores. This project was born from the need to "refactor the physical world," eliminating "spaghetti wiring" in prototypes and ensuring stable, safe power delivery for the motors.
 
-![easyServo Showcase](images/1771694552957.jpg)
+![easyServo Showcase](Images/1771694552957.jpg)
 
 ---
 
@@ -56,11 +56,11 @@ In robotics and automation projects, powering multiple servos directly from an A
 
 This project was successfully validated in a **7-Segment Mechanical Display**. Two **easyServo** units were used in tandem with an **Arduino UNO** to coordinate the actuators, keeping the power stable and the wiring perfectly organized.
 
-![easyServo showcase](images/20260226_1339081jpg.jpg)
+![easyServo showcase](Images/20260226_1339081jpg.jpg)
 
-![easyServo showcase](images/20260226_133856.jpg)
+![easyServo showcase](Images/20260226_133856.jpg)
 
-![Real World Use](images/output.mp4)
+![Real World Use](Images/output.mp4)
 
 ---
 
